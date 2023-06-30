@@ -8,6 +8,13 @@ A REST API server built with Laravel.
 ### **Author**: [Afaan Bilal](https://afaan.dev)
 
 ---
+
+## Course Overview
+
+![Course Overview](./assets/overview.png)
+
+---
+
 ## Run Development Server
 ````
 php artisan serve
