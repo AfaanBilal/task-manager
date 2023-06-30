@@ -5,6 +5,11 @@ A REST API server built with Laravel.
 
 ---
 
+## Udemy Course
+Learn about creating this in my Udemy course: [Creating a REST API server with PHP, Laravel and MySQL by Afaan Bilal](https://www.udemy.com/course/laravel-rest-api-server/?referralCode=AE00F1CF28608CD5F56E).
+
+---
+
 ### **Author**: [Afaan Bilal](https://afaan.dev)
 
 ---
